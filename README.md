@@ -36,7 +36,6 @@ Wumpus a beaucoup de fonctionnalités, avec **4 catégories principales**:
 
 ## Lien utiles
 
-*   [F.A.Q](http://delta-bot.com/foire-aux-questions/)
 *   [Discord](https://discord.gg/2Ph7nNSQPJ)
 *   [Github](https://github.com/ZeTro-dev/WumpusBot)
 *   [Dashboard Insponible](http://alpha-bot.fr/)
