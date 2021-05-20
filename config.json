@@ -1,0 +1,48 @@
+{
+	"presence": {
+		"status": "online",
+		"activity": {
+			"name": "!help | by zetro",
+			"type": "WATCHING"
+		}
+	},
+	"token": "TOKEN",
+	"dictionary": "en_FR",
+	"prefix": "!",
+	"embed": {
+		"color": "00beff",
+		"footer": "by ZeTro"
+	},
+	"permissions": [
+		"ADMINISTRATOR",
+		"CREATE_INSTANT_INVITE",
+		"SEND_MESSAGES",
+		"EMBED_LINKS",
+		"READ_MESSAGE_HISTORY",
+		"MANAGE_MESSAGES",
+		"MANAGE_ROLES",
+		"MANAGE_CHANNELS",
+		"MANAGE_GUILD",
+		"MUTE_MEMBERS",
+		"MOVE_MEMBERS",
+		"ADD_REACTIONS",
+		"VIEW_AUDIT_LOG",
+		"CONNECT",
+		"SPEAK",
+		"USE_EXTERNAL_EMOJIS",
+		"DEAFEN_MEMBERS",
+		"BAN_MEMBERS"
+	],
+	"owners": [
+		"483684483485138954", 
+		"371614185211297793"
+	],
+	"debug": false,
+	"level": {
+		"multiply": 450,
+		"minimum": 400
+	},
+	"nasa": "TOKEN",
+	"support": "ID",
+	"youtube": "TOKEN"
+}
