@@ -8,7 +8,7 @@
 
 > Ce bot est utilisé par plus de +2 000 utilisateurs Discord et plus de +30 serveurs.
 
-DeltaBot est un bot Discord codé en JavaScript avec [Discord.js](https://discord.js.org) et [Mongoose](https://mongoosejs.com/docs/api.html) par [ZeTro](https://github.com/ZeTro-dev).  
+Wumpus est un bot Discord codé en JavaScript avec [Discord.js](https://discord.js.org) et [Mongoose](https://mongoosejs.com/docs/api.html) par [ZeTro](https://github.com/ZeTro-dev).  
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 ## Informations
 
